@@ -8,7 +8,7 @@ const Navber = () => {
       <li><a>contact</a></li>
     </>
   return (
-    <div class="navbar min-h-0  bg-slate-200 border-2 py-0">
+    <div class="navbar min-h-0  bg-slate-200 border-2 border-slate-300 py-0">
       <div class="navbar-start  lg:hidden">
         <div class="dropdown">
           <label tabindex="0" class="btn btn-ghost">
